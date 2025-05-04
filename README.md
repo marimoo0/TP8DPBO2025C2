@@ -6,7 +6,7 @@ Saya Khana Yusdiana NIM 2100991 mengerjakan soal TP 8 dalam mata kuliah Desain d
 
 ## -- Desain Program --
 
-![1]()
+![1](https://github.com/marimoo0/TP8DPBO2025C2/blob/50ff96f4b2fadfa86887469d71ac4543a688529e/Desain%20Program.jpg)
 
 Struktur Basis Data :
 
